@@ -497,23 +497,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alumno\\.nuget\\packages\\": {},
+    "C:\\Users\\ericf\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\WFP1AC14.csproj",
+      "projectUniqueName": "C:\\Users\\ericf\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\WFP1AC14.csproj",
       "projectName": "WFP1AC14",
-      "projectPath": "C:\\Users\\alumno\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\WFP1AC14.csproj",
-      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\obj\\",
+      "projectPath": "C:\\Users\\ericf\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\WFP1AC14.csproj",
+      "packagesPath": "C:\\Users\\ericf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ericf\\Downloads\\p1ACrud13\\p1ACrud13\\WFP1AC14\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ericf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -528,8 +528,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\alumno\\Downloads\\p1ACrud13\\p1ACrud13\\p1ACrud13\\p1ACrud13.csproj": {
-              "projectPath": "C:\\Users\\alumno\\Downloads\\p1ACrud13\\p1ACrud13\\p1ACrud13\\p1ACrud13.csproj"
+            "C:\\Users\\ericf\\Downloads\\p1ACrud13\\p1ACrud13\\p1ACrud13\\p1ACrud13.csproj": {
+              "projectPath": "C:\\Users\\ericf\\Downloads\\p1ACrud13\\p1ACrud13\\p1ACrud13\\p1ACrud13.csproj"
             }
           }
         }
@@ -567,7 +567,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },
