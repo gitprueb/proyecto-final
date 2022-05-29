@@ -77,8 +77,7 @@
             this.dataGridViewAlumnos.RowTemplate.Height = 29;
             this.dataGridViewAlumnos.Size = new System.Drawing.Size(551, 720);
             this.dataGridViewAlumnos.TabIndex = 1;
-            this.dataGridViewAlumnos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewAlumnos_CellContentClick);
-            // 
+             // 
             // label1
             // 
             this.label1.AutoSize = true;
